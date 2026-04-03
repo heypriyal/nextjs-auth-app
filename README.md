@@ -19,9 +19,9 @@ This project is deployed on Vercel and can be accessed here:
 [Live Demo](https://nextjs-auth-app-sage.vercel.app/login)
 
 Use these credentials to log in to the app:
-- username
+- username:
 emilys
-- password
+- password:
 emilyspass
 
 
